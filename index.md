@@ -1,5 +1,5 @@
 ## About Me
-I am a first year PhD candidate in mepro,Department of Computer and Information Technology, Beijing Jiaotong University and supervised by Prof. Yao Zhao, Prof. Xiaolong Li. Also, I am a Research Intern at Beijing Institue Of Electronics Technology And Application.
+I am a second year PhD candidate in mepro,Department of Computer and Information Technology, Beijing Jiaotong University and supervised by Prof. Yao Zhao, Prof. Xiaolong Li. Also, I am a Research Intern at Beijing Institue Of Electronics Technology And Application.
 My research interests lie at Multimedia Forensics and Machine Learning.
 
 ## News
@@ -14,6 +14,7 @@ NOT YET
 2017, Computer Graphics, IMU 
 
 ## Selected Honors and Awards
+National Scholarship for Graduate Student ,2018
 Excellent Undergraduate Student in Inner Mongolia, 2018
 Endeavor Fellowship, 2015
 
